@@ -1,3 +1,30 @@
 body {
     background-color: #083B4C;
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #1389B2;
+    font-size: 1.3rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+.fizz_color {
+    background-color: #0CD6A1;
+}
+
+.buzz_color {
+    background-color: #FFD166;
+}
+
+.fizz_buzz_color {
+    background-color: #F0466F;
+}
